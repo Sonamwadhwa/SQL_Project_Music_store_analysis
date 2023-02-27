@@ -4,9 +4,9 @@ Music store Data Analysis is end to end SQL project that will help beginners to 
 
 # Database and Tools 
 
-Postgre SQL
+1)Postgre SQL
 
-Pgadmin4
+2)Pgadmin4
 
 
 Schema - Music Store Database 
