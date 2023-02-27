@@ -2,7 +2,7 @@
 
 Music store Data Analysis is end to end SQL project that will help beginners to learn, understand and advance their analytical skills for the Data Analyst role.
 
-Database and Tools 
+# Database and Tools 
 
 Postgre SQL
 Pgadmin4
